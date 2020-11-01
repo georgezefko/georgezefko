@@ -4,8 +4,10 @@
 
 - 🌱 I’m currently try to improve my coding skills
 - 👯 I’m looking to collaborate with other data scientists
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- 📖 Fun fact: I love reading books from different areas.
+- 🥅 2020 Goals: Enrich my ML/DL project portfolio
+- 📖 Main hobby 1 : I love reading books from different areas.
+- 💪 Main hobby 2 : Calisthenics
+- 🍺 Everyone loves drinking a cold glass (or two😜) of beer from time to time
 
 
 ### Connect with me:
