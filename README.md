@@ -2,10 +2,10 @@
 
 ## I'm aspiring data scientist :smiley:
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently try to improve my coding skills
 - 👯 I’m looking to collaborate with other data scientists
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love enjoying beer and chips from time to time
+- 📖 Fun fact: I love reading books from different areas.
 
 
 ### Connect with me:
