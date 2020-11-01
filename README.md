@@ -43,7 +43,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  
+   <img align="left" alt="georgezefko's GitHub Stats" src=https://github-readme-stats-seven-tawny.vercel.app/api?username=georgezefko&show_icons=true&hide_border=true" />
+
 
 </details>
 
