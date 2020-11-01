@@ -1,6 +1,6 @@
 ### Hi there, I'm George 👋
 
-## I'm aspiring data scientist :)
+## I'm aspiring data scientist :smiley:
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other data scientists
