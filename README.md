@@ -7,7 +7,7 @@
 - 🥅 2020 Goals: Enrich my ML/DL project portfolio
 - 📖 I love reading books from different areas.
 - 💪 Calisthenics
-- 🍺 Everyone loves drinking a cold glass (or two😜) of beer from time to time
+- 🍺 Everyone loves drinking a cold one(or two😜) from time to time
 
 
 ### Connect with me:
