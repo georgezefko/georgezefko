@@ -1,6 +1,6 @@
 ### Hi there, I'm George 👋
 
-## I'm aspiring data scientist :smiley:
+## Data Scientist/Engineer :smiley:
 
 - 🌱 I’m currently try to improve my coding skills
 - 👯 I’m looking to collaborate with other data scientists
