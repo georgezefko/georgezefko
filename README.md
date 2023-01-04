@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently try to improve my coding skills
 - 👯 I’m looking to collaborate with other data scientists
-- 🥅 2022 Goals: Enrich my ML/DL project portfolio
+- 🥅 2023 Goals: Enrich my ML/DL project portfolio
 - 📖 I love reading books from different areas.
 - 💪 Calisthenics
 - 🍺 Everyone loves drinking a cold one(or two😜) from time to time
