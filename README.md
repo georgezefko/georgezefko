@@ -1,10 +1,10 @@
 ### Hi there, I'm George 👋
 
-## Data Scientist/Engineer :smiley:
+## Data/Software Engineer :smiley:
 
-- 🌱 I’m currently try to improve my coding skills
-- 👯 I’m looking to collaborate with other data scientists
-- 🥅 2023 Goals: Enrich my ML/DL project portfolio
+- 🌱 I’m currently try to enrich my project portofolio
+- 👯 I’m looking to collaborate with other data and software engineers
+- 🥅 2024 Goals: More learning
 - 📖 I love reading books from different areas.
 - 💪 Calisthenics
 - 🍺 Everyone loves drinking a cold one(or two😜) from time to time
@@ -24,6 +24,7 @@
 <img align="left" alt="Visual Studion Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
+<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
 <img align="left" alt="Tableau" width="26px"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg" />
 
 <br />
