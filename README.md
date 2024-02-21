@@ -28,6 +28,9 @@
 <img align="left" alt="Tableau" width="26px"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg" />
 <img align="left" alt="Kafka" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="26px" height="26px"/>
 <img align="left" alt="Kubernetes" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="26px" height="26px"/>
+<img align="left" alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="26px" height="26px"/>
+
+
 
 <br />
 <br />
