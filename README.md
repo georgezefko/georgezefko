@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently try to enrich my project portofolio
 - 👯 I’m looking to collaborate with other data and software engineers
-- 🥅 2025 Goals: Focus more on system design learning
+- 🥅 2026 Goals: Focus more on system design learning
 - 📖 I love reading books from different areas.
 - 💪 Calisthenics
 - 🍺 Everyone loves drinking a cold one(or two😜) from time to time
